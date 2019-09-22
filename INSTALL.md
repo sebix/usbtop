@@ -19,6 +19,15 @@ $ sudo dnf install usbtop
 ```
 
 
+
+[To install under openSUSE](https://software.opensuse.org/package/usbtop):
+
+```
+$ sudo zypper install usbtop
+```
+
+
+
 From sources
 ------------
 
